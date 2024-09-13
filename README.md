@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=157996876" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157996876&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @israelLuna13" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=157996876&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
